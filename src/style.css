@@ -1,0 +1,52 @@
+body {
+  background-color: #b5e7f0;
+  font-family: "Merriweather", serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h1 {
+  font-size: 48px;
+}
+h2 {
+  font-weight: 500;
+}
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+  font-size: 20px;
+}
+.fa-cloud-sun-rain {
+  color: rgb(190, 190, 111);
+  font-size: 45px;
+}
+.fa-cloud-showers-water {
+  color: rgb(190, 190, 111);
+  font-size: 35px;
+}
+.fa-cloud-sun {
+  color: rgb(190, 190, 111);
+  font-size: 35px;
+}
+.fa-cloud {
+  color: rgb(124, 124, 120);
+  font-size: 35px;
+}
+.fa-cloud-meatball {
+  color: #fff;
+  font-size: 35px;
+}
+.row {
+  position: relative;
+  top: 150px;
+  left: 120px;
+}
